@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "question": "Which of the following syntax correctly declares an Array?",
+        "options": [
+            "int geeks;",
+            "array geeks[20];",
+            "geeks{20};",
+            "int geeks[20];"
+        ],
+        "correctOption": "int geeks[20];",
+        "points": 10
+    },
+    {
+        "id": 1,
+        "question": "The size of the array should always be _____",
+        "options": [
+            "Positive",
+            "Negative",
+            "Whole Number",
+            "Real Number"
+        ],
+        "correctOption": "Positive",
+        "points": 10
+    },
+    {
+        "id": 2,
+        "question": "What is the correct way to initialize values in an array?",
+        "options": [
+            "my_array [5] = (5,3,4,2,7);",
+            "my_array [5] = {5;3;4;2;7};",
+            "my_array [5] = {5,3,4,2,7,5,6,7,8};",
+            "my_array [5] = {1,2,3,4,5}"
+        ],
+        "correctOption": "my_array [5] = {1,2,3,4,5}",
+        "points": 10
+    },
+    {
+        "id": 3,
+        "question": "In an array int arr[3]={1,2,3}, what will happen if we try to access arr[4] in C/C++?",
+        "options": [
+            "Run Time Error",
+            "3",
+            "0",
+            "Garbage value"
+        ],
+        "correctOption": "Garbage value",
+        "points": 10
+    },
+    {
+        "id": 4,
+        "question": "Which of these operators can be used to concatenate two or more String objects?",
+        "options": [
+            "'+'",
+            "'+='",
+            "'&'",
+            "None of these"
+        ],
+        "correctOption": "'+'",
+        "points": 10
+    },
+    {
+        "id": 5,
+        "question": "Which of these methods of class String is used to obtain the length of the String object?",
+        "options": [
+            "get()",
+            "Sizeof()",
+            "lengthof()",
+            "length()"
+        ],
+        "correctOption": "length()",
+        "points": 10
+    },
+    {
+        "id": 6,
+        "question": "In a circular linked list, the last node points to the____.",
+        "options": [
+            "this pointer",
+            "tall pointer",
+            "first node",
+            "middle node"
+        ],
+        "correctOption": "first node",
+        "points": 20
+    },
+    {
+        "id": 7,
+        "question": "What advantage does a linked list have over an array?",
+        "options": [
+            "A linked list is not of a fixed size",
+            "It's Better",
+            "It's Easier to use",
+            "A linked list can give you the data faster"
+        ],
+        "correctOption": "A linked list is not of a fixed size",
+        "points": 30
+    },
+    {
+        "id": 8,
+        "question": "Nodes in a linked list contain two things:",
+        "options": [
+            "A pointer and a node",
+            "A Pointer and a reference",
+            "Direction and a pointer",
+            "Data and a pointer"
+        ],
+        "correctOption": "Data and a pointer",
+        "points": 20
+    },
+    {
+        "id": 9,
+        "question": "The last node of the singly-linked list contains ___",
+        "options": [
+            "NULL",
+            "Next Pointer",
+            "Data",
+            "None of the above"
+        ],
+        "correctOption": "NULL",
+        "points": 30
+    }
+]
